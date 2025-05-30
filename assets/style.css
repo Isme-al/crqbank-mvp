@@ -1,0 +1,26 @@
+/* style.css */
+
+/* Question container card */
+.stApp .css-1d391kg {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 16px;
+  margin-bottom: 20px;
+}
+
+/* Button styling */
+button[kind="primary"] {
+  border-radius: 8px !important;
+  padding: 0.6em 1.2em !important;
+}
+
+/* Sidebar headings */
+.css-1v0mbdj h2, .css-1v0mbdj h3 {
+  color: #35529a;
+}
+
+/* Main headers */
+h1, h2, h3, h4 {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}

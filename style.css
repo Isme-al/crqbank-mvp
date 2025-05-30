@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f5f7fa;
+    color: #2b2b2b;
+}
+
+h1, h2, h3, .question-header {
+    font-weight: 600;
+    color: #1a1a1a;
+}
+
+.question-header {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.question-text {
+    font-size: 18px;
+    background: white;
+    padding: 24px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    margin-bottom: 16px;
+}
+
+button[kind="secondary"] {
+    background-color: #007aff;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+}
+
+button:hover {
+    opacity: 0.95;
+}
+
+.stButton>button {
+    width: 100%;
+    margin-top: 8px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.stTable {
+    background-color: white;
+    border-radius: 10px;
+    padding: 12px;
+}

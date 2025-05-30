@@ -1,0 +1,7 @@
+[theme]
+base="light"                          # use light or dark
+primaryColor="#35529a"                # your main button/link color
+backgroundColor="#f0f2f6"             # page background
+secondaryBackgroundColor="#ffffff"    # sidebar background
+textColor="#333333"                   # default text
+font="sans serif"                     # one of: "sans serif", "serif", "monospace"
